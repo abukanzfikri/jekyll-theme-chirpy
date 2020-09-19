@@ -20,7 +20,7 @@ Click button <kbd>Create Favicon</kbd> and wait a moment for the website to gene
 Download the generated package, unzip and delete the following two from the extracted files:
 
 - browserconfig.xml
-- manifest.json
+- manifest.webmanifest
  
 Now, copy the rest image files (`.PNG` and `.ICO`) to cover the original one in folder `assets/img/favicons/`.
 
