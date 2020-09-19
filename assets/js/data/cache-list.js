@@ -74,7 +74,7 @@ const include = [
     {{ "/assets/img/favicons" | relative_url }}
   {%- endcapture -%}
   '{{ icon_url }}/favicon.ico',
-  '{{ icon_url }}/apple-icon.png',
+  '{{ icon_url }}/apple-icon.1.png',
   '{{ icon_url }}/apple-icon-precomposed.png',
   '{{ icon_url }}/apple-icon-57x57.png',
   '{{ icon_url }}/apple-icon-60x60.png',
