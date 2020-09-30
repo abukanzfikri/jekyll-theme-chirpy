@@ -136,3 +136,6 @@ $ bash tools/build.sh -d /path/to/site/
 ```
 
 The generated site files will be placed in the root of `/path/to/site/`. Now you should upload those files to your web server, such as Nginx.
+
+Test internal link <a href="/posts/customize-the-favicon">Customize the Favicon</a>
+Test internal link <a href="{{ site.baseurl }}/posts/customize-the-favicon">Customize the Favicon</a>
